@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: sleepyfox-Setup-1.0.0.exe
+    sha512: dmt4FGe1mbcZzEwLrvGcJsb/D+8+6MQU+IRzsO+U2cg1zenmJJhs52vNI5aq+gziBZIWwztU33Fm2kq3CqAs2Q==
+    size: 89688540
+path: sleepyfox-Setup-1.0.0.exe
+sha512: dmt4FGe1mbcZzEwLrvGcJsb/D+8+6MQU+IRzsO+U2cg1zenmJJhs52vNI5aq+gziBZIWwztU33Fm2kq3CqAs2Q==
+releaseDate: '2025-10-21T00:55:25.983Z'
